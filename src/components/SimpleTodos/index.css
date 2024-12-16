@@ -1,0 +1,19 @@
+/* Write your CSS here */
+* {
+  list-style: none;
+}
+
+.bg-container {
+  background-color: #ffc2a0;
+  padding: 20px;
+}
+.card-container {
+  margin: 20px;
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+}
+.heading {
+  text-align: center;
+  color: #ff8542;
+}

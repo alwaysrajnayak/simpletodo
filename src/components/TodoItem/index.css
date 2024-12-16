@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+li {
+  max-width: 700px;
+  margin: 10px 0px;
+  align-items: center;
+  text-align: center;
+}
+button {
+  font-size: 10px;
+  height: 25px;
+  width: 50px;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 10px;
+  background-color: transparent;
+}
+.title-text {
+  align-self: flex-start;
+  align-items: flex-start;
+}
